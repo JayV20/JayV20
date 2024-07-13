@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Soft-ISIA](Soft-ISIA/ISIA-web)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [Calacoaya APP](JayV20 / Calacoaya)
-
-- 💬 Ask me about **react, firebase, redis, mysql, postgres.**
+- 💬 Ask me about **react,android, firebase, mysql, postgres.**
 
 - 📫 How to reach me **jayv09240@gmail.com**
 
