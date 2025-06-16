@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react,android, firebase, mysql, postgres.**
 
-- 📫 How to reach me **jayv09240@gmail.com**
+- 📫 How to reach me **jay_vc@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
